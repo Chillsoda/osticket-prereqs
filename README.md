@@ -21,6 +21,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machine
+- Microsoft Remote Desktop (if on macOS)
 - Internet Information Services (IIS)
 - PHP Manager
 - Rewrite Module
